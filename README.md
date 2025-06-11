@@ -61,8 +61,8 @@ Siga os passos abaixo para configurar e rodar o ambiente de desenvolvimento.
 Primeiro, clone o repositório para a sua máquina local:
 
 ```bash
-git clone https://github.com/usuario/nome-do-projeto
-cd nome-do-projeto
+git clone https://github.com/edusabi/edita_senso
+cd src
 ```
 
 ### 2. Instalando as Dependências
@@ -92,3 +92,10 @@ python gui.py
 ```
 
 Após executar este comando, a janela do aplicativo deverá aparecer na sua tela, pronta para uso.
+
+**Telas esperadas :**
+![Tela de Ranking](src/assets/img1.jpg)
+![Tela de Pesquisa UF](src/assets/img2.jpg)
+![Tela de Resumo Estados](src/assets/img3.jpg)
+![Tela de Registro](src/assets/img4.jpg)
+![Tela Principal](src/assets/img5.jpg)
