@@ -94,8 +94,12 @@ python gui.py
 Após executar este comando, a janela do aplicativo deverá aparecer na sua tela, pronta para uso.
 
 **Telas esperadas :**
-![Tela de Ranking](src/assets/img1.jpg)
-![Tela de Pesquisa UF](src/assets/img2.jpg)
-![Tela de Resumo Estados](src/assets/img3.jpg)
-![Tela de Registro](src/assets/img4.jpg)
-![Tela Principal](src/assets/img5.jpg)
+<h3>📸 Telas do Sistema</h3>
+<p align="center">
+  <img src="src/assets/img1.jpg" alt="Tela de Ranking" width="500"/>
+  <img src="src/assets/img2.jpg" alt="Tela de Pesquisa UF" width="500"/>
+  <img src="src/assets/img3.jpg" alt="Tela de Resumo Estados" width="500"/>
+  <img src="src/assets/img4.jpg" alt="Tela de Registro" width="500"/>
+  <img src="src/assets/img5.jpg" alt="Tela Principal" width="500"/>
+</p>
+
