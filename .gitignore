@@ -1,0 +1,7 @@
+src/build/
+src/dist/
+
+*.db
+
+__pycache__/
+*.pyc
